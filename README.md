@@ -18,7 +18,6 @@ BloodSIM/
 ├── script.js         # Dashboard JavaScript logic
 ├── blooddata.json    # JSON data file for web UI
 ├── reports/          # Generated PDF reports
-└── venv/             # Virtual environment
 ```
 
 ## 🛠️ Prerequisites
