@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/PostgreSQL-Enabled-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/n8n-Integrated-F00?logo=n8n&style=flat" alt="n8n">
-  <img src="https://img.shields.io/badge/License-MIT-green?style=flat" alt="License">
 </p>
 
 <p align="center"><i>A Python-based blood inventory management and simulation system that tracks blood availability across multiple hospitals and generates PDF reports at regular intervals.</i></p>
@@ -194,5 +193,3 @@ python repoGEN.py
 <p align="center"><span style="color: #228B22;">✨ The chatbot will query the database and respond with current inventory levels! ✨</span></p>
 
 ---
-
-<p align="center"><span style="color: #DC143C;">🩸 <b>Thank you for using BloodSIM!</b> 🩸</span></p>
