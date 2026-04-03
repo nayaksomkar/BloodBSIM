@@ -2,6 +2,8 @@
 
 A Python-based blood inventory management and simulation system that tracks blood availability across multiple hospitals and generates PDF reports.
 
+The UI is available here: [https://nayaksomkar.github.io/BloodSIM.ui/](https://nayaksomkar.github.io/BloodSIM.ui/)
+
 ## 📁 Project Structure
 
 ```
